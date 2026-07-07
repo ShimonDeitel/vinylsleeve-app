@@ -1,0 +1,28 @@
+{
+  "identifier": "com.shimondeitel.vinylsleeve.storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Unlimited tapes and mixtape notes",
+          "displayName": "Vinylsleeve Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.vinylsleeve.pro",
+      "referenceName": "Vinylsleeve Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  },
+  "_developerTeamID": "W7Q885Q59C",
+  "_developerEmail": "s0533495227@gmail.com"
+}
